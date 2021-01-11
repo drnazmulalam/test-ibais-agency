@@ -1,9 +1,9 @@
 {
   "name": "gatsby-theme-agency",
-  "private": true,
+  "private": false,
   "description": "A simple business site to showcase your product and services",
   "version": "0.1.0",
-  "author": "Ibas Majid <ibas@ibaslogic.com>",
+  "author": "",
   "dependencies": {
     "@emotion/core": "^10.0.34",
     "gatsby": "^2.19.7",
